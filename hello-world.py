@@ -1,1 +1,1 @@
-print("karaoglan")
+print("karaoglan to karaoglan")
