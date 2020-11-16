@@ -1,1 +1,0 @@
-print("karaoglan to karaoglan ")
